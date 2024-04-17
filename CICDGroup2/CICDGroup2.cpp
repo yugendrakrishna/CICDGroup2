@@ -23,5 +23,5 @@ CCICDGroup2::CCICDGroup2()
 }
 CICDGROUP2_API int TestCase(int i)
 {
-    return i + 1;
+    return i + 1
 }
