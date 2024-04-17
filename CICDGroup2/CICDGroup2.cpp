@@ -21,6 +21,7 @@ CCICDGroup2::CCICDGroup2()
 
 
 }
+// This is a new comment
 CICDGROUP2_API int TestCase(int i)
 {
     return i + 1;
