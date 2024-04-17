@@ -13,7 +13,7 @@ CICDGROUP2_API int fnCICDGroup2(void)
 {
     return 0;
 }
-
+//This is the example code and comment.
 // This is the constructor of a class that has been exported.
 CCICDGroup2::CCICDGroup2()
 {
