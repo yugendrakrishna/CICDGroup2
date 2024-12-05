@@ -12,7 +12,7 @@ namespace UnitTest1
 		TEST_METHOD(TestMethod1)
 		{
 			auto val = TestCase(5);
-			Assert::AreEqual(6, val);
+			Assert::AreEqual(600, val);
 		}
 	};
 }
